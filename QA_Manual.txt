@@ -1,3 +1,5 @@
 Назва групи - "QA Manual" for GIT Hub
 QA Manual for GIT Hub(1 commit)
 QA Manual for GIT Hub(2 commit)
+
+Adding string "Hello world" to branch Oleg.Mykhaylovskyy.gitpractice
